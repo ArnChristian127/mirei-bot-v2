@@ -91,4 +91,4 @@ async def balance(ctx):
 async def token(ctx):
     await buy_token(ctx, ctx.author.id)
 
-bot.run("MTM2NDg2MTAwMzAwMjgxMDM3MA.Gjsd9J.QnMgD20v7kedGvl1PzrOCpagPZwrvwFFfNqR-Y")
+bot.run("")
